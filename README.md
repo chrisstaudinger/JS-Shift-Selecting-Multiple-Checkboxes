@@ -1,8 +1,8 @@
 # Mini Vanilla JS App - Shift-Selecting Multiple Checkboxes ✅ 
 
-## [View Application Here](https://express-img-uploads-aws-s3.netlify.com/)
+## [View Application Here](https://js-shift-select-multiple-checkboxes.netlify.com/)
 
-![Checking Multiple Boxes Gif](https://github.com/chrisstaudinger/Express-Img-Uploads/blob/master/frontend/assets/images/aws-s3-upload.gif?raw=true "Checking Multiple Boxes Gif")
+![Checking Multiple Boxes Gif](https://github.com/chrisstaudinger/JS-Shift-Selecting-Multiple-Checkboxes/blob/master/assets/images/app.gif?raw=true "Checking Multiple Boxes Gif")
 
 ### Code Used
 
