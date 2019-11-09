@@ -4,7 +4,7 @@
 
 ![Checking Multiple Boxes Gif](https://github.com/chrisstaudinger/JS-Shift-Selecting-Multiple-Checkboxes/blob/master/assets/images/app.gif?raw=true "Checking Multiple Boxes Gif")
 
-### Code Used
+### Tech Stack
 
 * Javascript
 * CSS
